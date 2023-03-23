@@ -6,5 +6,5 @@ This project was a fun exercise to practice my web development skills. I used a 
 
 ## Demo
 
-Insert gif or link to demo
+[link to demo](https://darrenk196.github.io/animated/)
 
